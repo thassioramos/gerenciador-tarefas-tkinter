@@ -1,2 +1,28 @@
-# gerenciadortarefas
-Desenvolvi um aplicativo desktop simples de gerenciamento de tarefas (To-Do List) utilizando Python e Tkinter. O app permite adicionar, marcar e remover tarefas, com persistência de dados local em JSON. Ideal para demonstrar conhecimentos em interfaces gráficas e manipulação de arquivos no Python.
+# 📝 Gerenciador de Tarefas com Interface Gráfica (To-Do App)
+
+Este é um simples aplicativo desktop feito em **Python** com **Tkinter** para gerenciamento de tarefas (To-Do List).
+
+---
+
+## 📌 Funcionalidades
+
+- ✅ Adicionar novas tarefas
+- ❌ Remover tarefas selecionadas
+- ✔️ Marcar/desmarcar tarefas como concluídas
+- 💾 Salvamento automático em arquivo local `tasks.json`
+- 🔁 Carregamento automático das tarefas salvas
+
+---
+
+## 🖥️ Interface
+
+A interface é simples e funcional, feita com Tkinter, ideal para praticar aplicações GUI no Python.
+
+---
+
+## 🚀 Como executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/gerenciador-tarefas-tkinter.git
+   cd gerenciador-tarefas-tkinter
