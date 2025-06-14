@@ -24,5 +24,5 @@ A interface é simples e funcional, feita com Tkinter, ideal para praticar aplic
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/https://github.com/thassioramos/gerenciador-tarefas-tkinter
+   git clone https://github.com/thassioramos/gerenciador-tarefas-tkinter
    cd gerenciador-tarefas-tkinter
