@@ -1,0 +1,8 @@
+# Evitar arquivos do ambiente virtual
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos temporários
+*.log
+.DS_Store
