@@ -4,23 +4,23 @@ Este é um simples aplicativo desktop feito em **Python** com **Tkinter** para g
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
-- ✅ Adicionar novas tarefas
-- ❌ Remover tarefas selecionadas
-- ✔️ Marcar/desmarcar tarefas como concluídas
-- 💾 Salvamento automático em arquivo local `tasks.json`
-- 🔁 Carregamento automático das tarefas salvas
+-  Adicionar novas tarefas
+-  Remover tarefas selecionadas
+-  Marcar/desmarcar tarefas como concluídas
+-  Salvamento automático em arquivo local `tasks.json`
+- Carregamento automático das tarefas salvas
 
 ---
 
-## 🖥️ Interface
+## Interface
 
 A interface é simples e funcional, feita com Tkinter, ideal para praticar aplicações GUI no Python.
 
 ---
 
-## 🚀 Como executar
+## Como executar
 
 1. Clone o repositório:
    ```bash
